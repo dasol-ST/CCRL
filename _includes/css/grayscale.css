@@ -162,6 +162,7 @@ a:focus {
 @media(min-width:767px) {
     .intro {
         height: 100%;
+        width: 100%;
         padding: 0;
     }
 
@@ -171,12 +172,7 @@ a:focus {
 
     .intro .intro-body .intro-text {
         font-size: 35px;
-    }
-    
-    .intro .container {
-    width: 100%;
-    max-width: none;
-    }
+    }    
 }
 
 .btn-circle {
