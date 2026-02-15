@@ -160,7 +160,7 @@ a:focus {
     display: table;
     width: 100%;
     height: auto;
-    padding-top: 200px;
+    padding-top: 300px;
     text-align: center;
     color: #fff;
     background: url({{ site.baseurl }}/img/home.jpg) no-repeat bottom center scroll;
