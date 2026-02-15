@@ -57,7 +57,7 @@ p {
 }
 
 #professor p{line-height: 1.2;}
-#contact{line-height: 1.2;}
+#contact p{line-height: 1.2;}
 
 .profile-info p {
     margin-bottom: 10px;
