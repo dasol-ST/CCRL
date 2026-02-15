@@ -49,7 +49,6 @@ a {
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
-    font-size: 35px;
 }
 
 a:hover,
@@ -103,6 +102,10 @@ a:focus {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    font-size: 18px;
 }
 
 .navbar-custom .nav li a:hover,
