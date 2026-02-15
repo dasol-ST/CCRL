@@ -56,6 +56,10 @@ p {
     }
 }
 
+#professor{
+  margin: 0 0 15px;
+}
+
 .profile-info p {
     margin-bottom: 10px;
 }
@@ -372,10 +376,6 @@ section { padding: 200px 0; }
 #student{
   padding-top: 25px;
   padding-bottom: 25px;
-}
-
-#professor{
-  margin: 0 0 15px;
 }
 
 .btn {
