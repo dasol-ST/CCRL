@@ -25,7 +25,7 @@ h2 {
     letter-spacing: 1px;
     font-size: 35px;
 }
-h3{
+h3 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -56,8 +56,8 @@ p {
     }
 }
 
-#professor p{line-height: 1.2;}
-#contact p{line-height: 1.2;}
+#professor p {line-height: 1.2;}
+#contact p {line-height: 1.2;}
 
 .profile-info p {
     margin-bottom: 10px;
@@ -65,10 +65,6 @@ p {
 
 small {
     font-size: 20px;
-}
-#professor{
-  margin: 0 0 15px;
-  line-height: 1.0;
 }
 
 a {
