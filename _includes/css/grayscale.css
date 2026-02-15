@@ -306,8 +306,13 @@ a:focus {
 
 section { padding: 200px 0; }
 
-.page-research .content-section{
-  padding-top: 25px;   
+#research_text,
+#research1,
+#research2,
+#research3,
+#research4,
+#research5{
+  padding-top: 25px;
   padding-bottom: 25px;
 }
 
