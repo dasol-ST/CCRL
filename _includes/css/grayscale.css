@@ -271,6 +271,43 @@ a:focus {
     padding-top: 200px;
 }
 
+/* People page */
+.people-grid { margin-top: 30px; }
+
+.person-card{
+  background: rgba(255,255,255,.06);
+  border: 1px solid rgba(255,255,255,.18);
+  border-radius: 12px;
+  padding: 22px 18px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.person-photo{
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  margin: 0 auto 15px;
+  border: 2px solid rgba(255,255,255,.45);
+}
+
+.person-name{
+  margin: 10px 0 8px;
+  font-size: 20px;
+  letter-spacing: .5px;
+}
+
+.person-field{
+  font-size: 15px;
+  margin-bottom: 10px;
+  opacity: .95;
+}
+
+.person-contact{
+  font-size: 14px;
+  margin: 0;
+}
+
 .download-section {
     width: 100%;
     padding: 10px 0;
