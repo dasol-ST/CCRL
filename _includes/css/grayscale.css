@@ -374,6 +374,10 @@ section { padding: 200px 0; }
   padding-bottom: 25px;
 }
 
+#professor{
+  margin: 0 0 15px;
+}
+
 .btn {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
